@@ -1,5 +1,3 @@
-init; % pozovi M-file koji inicijalizira Arduino, Servo i HC-SR04 senzor udaljenosti
-init_0; % pozovi M-file koji inicijalizira grafiku
 udaljenost = 0; % udaljenost objekta -> udaljenost = (vrijeme X brzina zvuka) / 2
 brzinaZvuka = 343; % Brzina zvuka na 20 °C i atmosferskom tlaku od 10^5 Pa
 vrijednosti = zeros(180,2); % Napravi matricu 180 redaka X 2 stupca i popuni je nulama
