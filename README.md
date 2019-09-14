@@ -1,4 +1,4 @@
 # Seminar-Elektroakustika
 <kbd>
-  <img src="screenshot.png">
+  <img src="/screenshot.png">
 </kbd>
